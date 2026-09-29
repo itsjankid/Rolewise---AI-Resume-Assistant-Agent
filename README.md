@@ -20,14 +20,9 @@ Paste your resume and a target role — get a match score, the gaps worth closin
 </div>
 
 ## 🖼️ Preview
-
 <p align="center">
-  <img src="https://placehold.co/960x420/f5f7f4/8a8f98/png?text=Rolewise+review+workspace" alt="Rolewise screenshot placeholder" />
+  <img src="docs/screenshot.png" alt="Rolewise review workspace — set a target role, paste your resume, and get a match score with gaps and recommendations" width="960" />
 </p>
-
-<!-- 📸 To add a real screenshot: save it as docs/screenshot.png, then replace the placeholder above with:
-<p align="center"><img src="docs/screenshot.png" alt="Rolewise review view" width="960"></p>
--->
 
 ## ✨ Features
 
@@ -118,6 +113,7 @@ If an AI call fails or returns an unusable response, the server **automatically 
 ├── styles.css    # Styling
 ├── server.py     # Python stdlib server + review engine
 ├── config.json   # Runtime AI config (auto-managed)
+├── docs/screenshot.png  # App screenshot (used in this README)
 └── .env          # Optional AI keys (not committed)
 ```
 
